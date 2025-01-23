@@ -1,30 +1,32 @@
-# 🌐 Computer Networks Study Hub
+# 🌐 Centro de Estudos em Redes de Computadores
 
-Welcome to the **Computer Networks Study Hub**! 📡💻 This repository is dedicated to documenting my journey as I dive deep into the fascinating world of computer networks. From foundational concepts to advanced topics, this is where I’ll share everything I learn along the way. 🚀
+Bem-vindo ao **Centro de Estudos em Redes de Computadores**! 📡
+💻 Este repositório é dedicado a documentar minha jornada enquanto mergulho no fascinante mundo das redes de computadores. 
+Desde conceitos fundamentais até tópicos avançados, aqui é onde compartilho tudo o que aprendo ao longo do caminho. 🚀
 
-## 🎯 Purpose
+## 🎯 Propósito
 
-The goal of this repository is to:
+O objetivo deste repositório é:
 
-- 🧠 **Understand** the principles and protocols that power the internet.
-- 🔍 **Explore** key topics like TCP/IP, routing, switching, and network security.
-- 🛠️ **Practice** hands-on skills through projects and simulations.
-- 📚 **Share** notes, resources, and code with others interested in computer networks.
+- 🧠 **Entender** os princípios e protocolos que sustentam a internet.
+- 🔍 **Explorar** tópicos-chave como TCP/IP, roteamento, comutação e segurança de redes.
+- 🛠️ **Praticar** habilidades práticas por meio de projetos e simulações.
+- 📚 **Compartilhar** anotações, recursos e códigos com outros interessados em redes de computadores.
 
-## 📂 Repository Contents
+## 📂 Conteúdo do Repositório
 
-Here’s what you’ll find in this repository:
+Aqui está o que você encontrará neste repositório:
 
-- 📖 **Notes:** Detailed summaries of concepts, protocols, and technologies.
-- 🛠️ **Projects:** Practical implementations and network simulations.
-- 🧪 **Exercises:** Problem-solving tasks and configurations to reinforce learning.
-- 🌐 **Resources:** Links to useful tools, articles, and tutorials.
+- 📖 **Anotações:** Resumos detalhados de conceitos, protocolos e tecnologias.
+- 🛠️ **Projetos:** Implementações práticas e simulações de redes.
+- 🧪 **Exercícios:** Tarefas para resolver problemas e configurações para reforçar o aprendizado.
+- 🌐 **Recursos:** Links para ferramentas úteis, artigos e tutoriais.
 
-## 🚀 Topics Covered
+## 🚀 Tópicos Abordados
 
-This repository will cover a variety of topics, including but not limited to:
+Este repositório cobrirá uma variedade de tópicos, incluindo, mas não se limitando a:
 
-- 🌍 **Network Models:** OSI and TCP/IP models.
-- 🔗 **Protocols:** HTTP, FTP, DNS, DHCP, ARP, and more.
-- 📡 **Routing & Switching:** Concepts like subnetting, VLANs, and routing algorithms.
-- 🔒 **Network Security:** Firewalls, encryption, VPNs, and secure communication.
+- 🌍 **Modelos de Rede:** Modelos OSI e TCP/IP.
+- 🔗 **Protocolos:** HTTP, FTP, DNS, DHCP, ARP e outros.
+- 📡 **Roteamento e Comutação:** Conceitos como subnetting, VLANs e algoritmos de roteamento.
+- 🔒 **Segurança de Redes:** Firewalls, criptografia, VPNs e comunicação segura.
